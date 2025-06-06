@@ -15,6 +15,12 @@ This is a simple, modern contact form built using **HTML**, **CSS**, and **JavaS
 - **Email:** Must be a valid email format (e.g., user@example.com)
 - **Message:** Required (cannot be empty)
 
+---
+## 📸 Preview
+
+![Blog Screenshot](Screenshot.png) 
+
+
 ## 🛠 How to Use
 
 1. Clone or download this repository.
